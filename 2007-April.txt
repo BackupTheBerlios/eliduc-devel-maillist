@@ -1,0 +1,154 @@
+From forbiddenone00z at gmail.com  Sun Apr  8 00:18:53 2007
+From: forbiddenone00z at gmail.com (00z Forbidden one)
+Date: Sat, 7 Apr 2007 17:18:53 -0500
+Subject: [Eliduc-devel] En desarrollo: Hacks de consola
+Message-ID: <b5d093e0704071518k14d27502u1568e4641d9867b0@mail.gmail.com>
+
+?Hola a todos!
+
+Acabo de a?adir este documento
+http://eliduc.berlios.de/index.php/Hacks_de_consola
+
+Una breve descripci?n:
+
+Una serie de tutelares menores sobre algunos tweaks de consola, entre los
+mismos:
+
+   1. C?mo mostrar c?racteres unicode (utf-8) en tu consola ( sin X )
+   2. C?mo hacer tu consola del sistema totalmente verde.
+
+Tambi?n he agregado http://eliduc.berlios.de/index.php/Nomenclatura
+
+Donde pretendo crear un est?ndar sobre la sintaxis de consola usada en los
+documentos.
+
+Pueden revisarlos y ayudar a en los mismos.
+
+Saludos.
+-- 
+atte: ??z
+Registered Linux User #393616
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/eliduc-devel/attachments/20070407/6cb228ed/attachment.html>
+
+From mandame.spam.aca at gmail.com  Mon Apr  9 18:34:29 2007
+From: mandame.spam.aca at gmail.com (Dan Creyd)
+Date: Mon, 9 Apr 2007 13:34:29 -0300
+Subject: [Eliduc-devel] En desarrollo: Hacks de consola
+In-Reply-To: <b5d093e0704071518k14d27502u1568e4641d9867b0@mail.gmail.com>
+References: <b5d093e0704071518k14d27502u1568e4641d9867b0@mail.gmail.com>
+Message-ID: <36c046ea0704090934q78321e18o503bea418400de56@mail.gmail.com>
+
+Buenisimo, de a poco estamos reactivando la actividad de la lista y de eliduc.
+
+Saludos.
+
+
+From mandame.spam.aca at gmail.com  Sun Apr 29 20:43:53 2007
+From: mandame.spam.aca at gmail.com (Dan Creyd)
+Date: Sun, 29 Apr 2007 14:43:53 -0400
+Subject: [Eliduc-devel]  Nuestro trabajo no es en vano
+Message-ID: <36c046ea0704291143v3a397003t3d1c473d93fbf43b@mail.gmail.com>
+
+Estos d?as estuve ocupado trabajando en algunos proyectos y deje de
+lado a Eliduc. Volvi entonces a recorrer el wiki buscando unas
+respuestas para un problemita que me habia surgido. Divagando recorr?
+la secci?n Paginas Especiales y me llam? la atenci?n una en
+particular:
+
+Paginas Populares:
+http://eliduc.berlios.de/index.php/Especial:Popularpages
+
+La informaci?n obtenida fue impactante, a pesar de nuestras constantes
+visitas, este es el top-ten:
+
+#1. Manual de Kubuntu (5.577 visitas)
+#2. Notas de Instalaci?n de Fedora Core 5 (4.093 visitas)
+#3. Eliduc (3.021 visitas)
+#4. Elix (1.329 visitas)
+#5. StarCraft Linux (488 visitas)
+#6. Programando desde el suelo (449 visitas)
+#7. Tutelar de Drivers ATI (337 visitas)
+#8. Tutelar de Expresiones Regulares (293 visitas)
+#9. Gu?a b?sica de GRUB (254 visitas)
+#10. Listas de correo (214 visitas)
+
+Increible, pensar que el manual de kubuntu en principio se podria ver
+como algo de mediocre calidad, ya que fue nuestro primer proyecto y la
+gu?a en si no era muy rica en informacion que digamos...
+
+Personalmente esto me da muchas ganas de seguir aportando, espero que
+a ustedes tambien.
+
+Saludos.
+
+PD: Este mensaje va ir al foro de espacio linux tambien.
+
+
+From mandame.spam.aca at gmail.com  Sun Apr 29 21:43:19 2007
+From: mandame.spam.aca at gmail.com (Dan Creyd)
+Date: Sun, 29 Apr 2007 15:43:19 -0400
+Subject: [Eliduc-devel]  Paginas con spam
+Message-ID: <36c046ea0704291243r178b077eu32c13feba94c9f06@mail.gmail.com>
+
+La siguiente pagina podria considerarse spam o como un intento de
+descontrolar el wiki:
+
+??Elix??:
+http://eliduc.berlios.de/index.php/%C2%BF%C2%BF_Elix_%3F%3F
+
+Existian 2 similares, borr? la primera y sugiero que se borre esta
+tambien, yo no lo pude hacer porque no me aparece la opcion para
+hacerlo.
+
+Saludos.
+Ariel.
+
+
+From forbiddenone00z at gmail.com  Mon Apr 30 02:33:35 2007
+From: forbiddenone00z at gmail.com (00z Forbidden one)
+Date: Sun, 29 Apr 2007 19:33:35 -0500
+Subject: [Eliduc-devel] Paginas con spam
+In-Reply-To: <36c046ea0704291243r178b077eu32c13feba94c9f06@mail.gmail.com>
+References: <36c046ea0704291243r178b077eu32c13feba94c9f06@mail.gmail.com>
+Message-ID: <b5d093e0704291733h6d804f8ev1a3ee1615f117bc3@mail.gmail.com>
+
+Ando investigando eso, la verdad est? muy raro ese caso, al parecer ya est?
+borrada la pagina pero si existe un enlace hacia ella (C?mo con una p?gina
+nueva) aparece ese mensaje, creo que ser? necesario un acceso a la base de
+datos para reparar eso, dentro de estos d?as le dar? una checada.
+
+Gracias por el reporte y vuestro aporte a Eliduc. :)
+
+Saludos
+
+El d?a 29/04/07, Dan Creyd <mandame.spam.aca at gmail.com> escribi?:
+>
+> La siguiente pagina podria considerarse spam o como un intento de
+> descontrolar el wiki:
+>
+> ??Elix??:
+> http://eliduc.berlios.de/index.php/%C2%BF%C2%BF_Elix_%3F%3F
+>
+> Existian 2 similares, borr? la primera y sugiero que se borre esta
+> tambien, yo no lo pude hacer porque no me aparece la opcion para
+> hacerlo.
+>
+> Saludos.
+> Ariel.
+> _______________________________________________
+> Eliduc-devel mailing list
+> Eliduc-devel at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/eliduc-devel
+>
+
+
+
+-- 
+atte: ??z
+Registered Linux User #393616
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/eliduc-devel/attachments/20070429/33498626/attachment.html>
+

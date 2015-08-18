@@ -1,0 +1,47 @@
+From 00z at the00z.org  Fri Jun 27 22:41:34 2008
+From: 00z at the00z.org (Abel Camarillo)
+Date: Fri, 27 Jun 2008 15:41:34 -0500
+Subject: [Eliduc-devel] Hola gente.
+Message-ID: <4865507E.3090805@the00z.org>
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Espero que todos reciban este mensaje (LOL).
+
+Mi comentario es para reiterarles que el sito est? disponible para todos
+los que quieran hacer aportes, pueden abrir sus proyectos ponerlos en el
+  ?ndice o los que les de la gana en un modelo pseudo-anarquico que me
+gusta mantener as?.
+
+les paso la url para los olvidadizos:
+
+http://eliduc.berlios.de/
+
+Estoy pensando usar ese programa para linkearlo con mis proyectos de
+desarrollo de c?digo en Perl (aunque todo est? en ingl?s por razones de
+portabilidad).
+
+Si surge algo les comento.
+
+Saludos.
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.9 (GNU/Linux)
+Comment: Using GnuPG with Mozilla - http://enigmail.mozdev.org
+
+iQIcBAEBAgAGBQJIZVBVAAoJEN0oTfi/AYxvGhoP/3zW83srOQ791TCFOu4lSdXG
+DXjYUUpwg/k1GeRWrZZHr0YnhWHHvDzhP38R5iu54qpmCSEWQvyxKz/7NzYg7CUi
+cHCiapdFuecJl17r+DPsUEpgFz6qhUJkR9JKDjAoC+i+VjzRYalA2wv+FbVxtRgl
+elwL7vOMhsKw/T2q/mxCBNLNNBjT0zovOreq/Oa5UiUmRjmtuMRi1AYaY8L12czl
+NEe7SdxXEwuSarM6lTaAsVVRqyezlX06aqLSOKYzT2HsiGKBGfBV/H8nWz55Rovw
+NBad/AEaU51OOvjWlQ7TEyz3NYzDcXJLniJ4k0RWo8avCRbHCHO6nS5mcF2AaiOq
+UYdcT77bJx0SebdNOyWvAg0HFhuXb8iBNR7sJYC4gorUSStZ0UzIV6bkLcRcCYv0
+wq0zaKJ1gEfb1bE6HeTfZtwHMJdV5jnSRTwCZYhfvDqgdO6abFF6B55J/mZR4fdF
+1fOOVKCPdI7xyp1F9YfbOjoHyPEG58LAsWwAeL3jWVlfb7NWeWIpKLo+FpM/YEIc
+ZWFnI5okVrT3vZUuLfqYXLUpYuWtPgsPsHMgtJxAIEjHkEvRdGuKHPCFuMyIfefW
+aeRZgFPlMNg1K1PmDr54MGDI7xTS9h8kD9CIh8ABMQn5QTuXUXqsPcdxFB547lNT
+VU2e86ZAM4qh4WOjkNxZ
+=X6LR
+-----END PGP SIGNATURE-----
+
+

@@ -1,0 +1,115 @@
+From mandame.spam.aca at gmail.com  Fri Mar  9 20:37:57 2007
+From: mandame.spam.aca at gmail.com (Dan Creyd)
+Date: Fri, 9 Mar 2007 16:37:57 -0300
+Subject: [Eliduc-devel] Actualizacion de "Notas de instalacion de Fedora
+	Core"
+Message-ID: <36c046ea0703091137v2a2ad6fcv55782af586ae358@mail.gmail.com>
+
+Hola.
+
+Ha pasado un tiempo desde que el proyecto finalizo la traduccion de las
+"notas de instalacion de Fedora Core 5". Por eso creo que es necesario
+realizar una revision-actualizacion del articulo.
+Por lo que lei, la proxima version de Fedora, la 7ma, traera muchos
+cambios.  Talvez sea necesaria la creacion de una nueva guia para esa
+version. Sin embargo, los cambios comprendidos entre la version 5 y 6 no
+merecen el esfuerzo. Lo mas conveniente tal vez sea agregar secciones nuevas
+a la misma, y en el caso que sea necesario, diferenciar un procedimiento con
+un cartel que diga para que version de fedora core es valido.
+
+Creo que el objetivo final de la misma es ser una guia valida para cualquier
+version de Fedora, comenzando al menos con la 5ta.
+
+Lamentablemente, no puedo encargarme de realizar la revision ya que no soy
+usuario de esta distribucion. Talvez alguno de los miembros del proyecto
+tenga algun tiempo para discutir que cambios se pueden realizar.
+
+Saludos.
+
+Ariel
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/eliduc-devel/attachments/20070309/0a21ef43/attachment.html>
+
+From mandame.spam.aca at gmail.com  Sun Mar 11 22:45:30 2007
+From: mandame.spam.aca at gmail.com (Dan Creyd)
+Date: Sun, 11 Mar 2007 18:45:30 -0300
+Subject: [Eliduc-devel] =?iso-8859-1?q?Instalaci=F3n_y_Desinstalaci=F3n_de?=
+	=?iso-8859-1?q?_software_en_Ubuntu_y_derivados?=
+Message-ID: <36c046ea0703111445i59c8b127ye07ae46d8271c22c@mail.gmail.com>
+
+Hola.
+
+Se a?adi? el minitutorial "Instalaci?n y Desinstalaci?n de software en
+Ubuntu y derivados" de caracter pr?ctico pero con explicaciones de conceptos
+b?sicos.
+Tambien dentro de la secci?n de documentos Estables, el grupo kubuntu fue
+renombrado por "Ubuntu, Kubuntu y derivados".
+
+De a poco espero que podamos reactivar el movimiento de esta lista y del
+wiki.
+Tengo otros documentos planeados, como el manual de audacity, que ya inicie.
+Aunque por el momento la traducci?n va lenta.
+
+Saludos.
+Ariel.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/eliduc-devel/attachments/20070311/6717d46e/attachment.html>
+
+From mandame.spam.aca at gmail.com  Wed Mar 14 02:02:57 2007
+From: mandame.spam.aca at gmail.com (Dan Creyd)
+Date: Tue, 13 Mar 2007 22:02:57 -0300
+Subject: [Eliduc-devel] =?iso-8859-1?q?Gu=EDa_b=E1sica_de_GRUB?=
+Message-ID: <36c046ea0703131802t30facf33i163d6de76955c662@mail.gmail.com>
+
+Hola:
+
+Se inici? el proyecto "Gu?a b?sica de GRUB", el cual est? basado en otro
+documento en espa?ol con licencia Creative Commons y la gu?a oficial de
+Grub.
+
+El documento original puede ser leido en:
+http://dns.bdat.net/documentos/grub/book1.html
+
+Me parece una gu?a excelente, a la cual solo es necesario agregar y corregir
+algunos detalles. La licencia de la misma es Creative Commons,
+lamentablemente el autor no especifica cual de todas las licencias utiliza,
+asi que quedara a nuestra consideracion hasta que se confirme.
+
+La idea de realizar este documento surgio a raiz de los constantes post en
+el foro de espaciolinux relacionados con la recuperacion o configuracion de
+Grub. Es por eso, que ciertos contenidos seran orientados en funcion a las
+preguntas mas comunes o las situaciones que normalmente se presentan en el
+foro.
+
+Saludos.
+Ariel.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/eliduc-devel/attachments/20070313/d1db217f/attachment.html>
+
+From mandame.spam.aca at gmail.com  Thu Mar 29 01:53:48 2007
+From: mandame.spam.aca at gmail.com (Dan Creyd)
+Date: Wed, 28 Mar 2007 20:53:48 -0300
+Subject: [Eliduc-devel] =?iso-8859-1?q?=5Beliduc-devel=5D_Guia_B=E1sica_de?=
+	=?iso-8859-1?q?_Grub?=
+Message-ID: <36c046ea0703281653p143d2e16o6d96656080ad68ca@mail.gmail.com>
+
+Hola:
+
+Este mensaje es para comentarles que la Guia B?sica de Grub se va a
+transladar a estable. Los que tengan algun momento libre, denle una
+leida en busca de errores, tanto ortogr?ficos como de los otros.
+Comentarios sobre errores por este medio o en la secci?n discusi?n del
+art?culo.
+
+Ya se especifico la licencia correspondiente (Creative Commons
+Reconocimiento 2.5) que es la licencia del documento original.
+
+Link al documento: http://eliduc.berlios.de/index.php/Gu?a_b?sica_de_GRUB
+
+Saludos.
+Ariel
+
+
